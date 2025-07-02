@@ -1,11 +1,1 @@
-services:
-  - type: web
-    name: phishkit-app
-    runtime: python
-    buildCommand: ""
-    startCommand: gunicorn app:app
-    envVars:
-      - key: BOT_TOKEN
-        value: your_token_here
-      - key: CHAT_ID
-        value: your_chat_id
+requirements.txt
