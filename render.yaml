@@ -1,1 +1,6 @@
-requirements.txt
+requests
+beautifulsoup4
+tldextract
+colorama
+lxml
+dnspython
